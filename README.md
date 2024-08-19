@@ -8,7 +8,7 @@
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Descriptive Data Analysis](#descriptive-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results and Findings](#results-and-findings)
+- [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
@@ -17,6 +17,7 @@
 
 This project aims to analyze the DVD rental data from a fictional DVD rental company to uncover insights that can help improve business operations, customer satisfaction, and profitability. The analysis focuses on several key areas, including customer behavior, rental patterns, inventory management, and sales trends.
 
+[DVDRental Total Number of Films](https://github.com/user-attachments/assets/abe7dddf-c953-4ca2-8f3e-75a118576cde)
 
 ### Data Sources
 
